@@ -16,6 +16,8 @@ Photo sharing app like Instagram.
 <img src = "assets/app_screenshots/Screenshot_20190710-225042_Expo.jpg" width="250">
 <img src = "assets/app_screenshots/Screenshot_20190710-225113_Expo.jpg" width="250">
 
-### Screenshot from the firebase console
 
+
+### Screenshot from the firebase console
+<img src = "assets/app_screenshots/fb_console_screenshot.PNG" width="550">
 
