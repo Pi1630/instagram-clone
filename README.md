@@ -18,6 +18,3 @@ Photo sharing app like Instagram.
 
 
 
-### Screenshot from the firebase console
-<img src = "assets/app_screenshots/fb_console_screenshot.PNG" width="550">
-
